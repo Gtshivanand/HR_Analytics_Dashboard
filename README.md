@@ -40,4 +40,9 @@ The analysis reveals that younger, single employees, particularly those with Bac
 
 <img width="606" alt="Snapshot of Dashboard (HR Analytics )" src="https://github.com/user-attachments/assets/f3d23bf7-66d2-4517-b1da-ea9c3e8b7483" />
 
+### Contact:
+For any inquiries or suggestions, feel free to reach out:
+
+Email: shivanandnashi97@gmail.com
+LinkedIn: Shivanand Nashi
 
