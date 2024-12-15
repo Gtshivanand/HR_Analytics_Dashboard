@@ -3,6 +3,17 @@
 ### Introduction: 
 The aim of this project is to analyze the HR metrics and workforce demographics of a company for the year 2024. Understanding these metrics is crucial for strategic planning in employee retention, satisfaction, and overall workforce management.
 
+### Description:
+This repository contains an HR Analytics Dashboard built in Excel, designed to provide actionable insights into employee metrics. The project includes:
+
+* Key HR KPIs such as attrition rates, employee demographics, performance, and engagement trends.
+
+* Interactive visualizations with dynamic slicers for filtering by department, gender, location, and tenure.
+
+* Data preparation and analysis using Excel features like PivotTables, charts, conditional formatting, and formulas.
+
+Ideal for HR professionals and data enthusiasts aiming to optimize workforce strategies.
+
 ### Objectives:
 
 *	Identify key attrition trends based on various demographics.
@@ -40,9 +51,10 @@ The analysis reveals that younger, single employees, particularly those with Bac
 
 <img width="606" alt="Snapshot of Dashboard (HR Analytics )" src="https://github.com/user-attachments/assets/f3d23bf7-66d2-4517-b1da-ea9c3e8b7483" />
 
-### Contact:
+## Contact
+
 For any inquiries or suggestions, feel free to reach out:
 
-Email: shivanandnashi97@gmail.com
-LinkedIn: Shivanand Nashi
+- **Email:** [shivanandnashi97@gmail.com](mailto:shivanandnashi97@gmail.com)
+- **LinkedIn:** [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
 
