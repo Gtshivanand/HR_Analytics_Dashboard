@@ -1,4 +1,4 @@
-# HR ANALYTICS ATTRITION PROJECT
+# HR ANALYTICS DASHBOARD PROJECT
 ## OBJECTIVE
 The main objective of this analysis is to identify patterns and factors that influence attrition and provide datadriven recommendations to reduce turnover rates. The document will address the issue of employee attrition as highlighted by the data, examining the reasons behind why employees leave the company.
 
@@ -17,7 +17,7 @@ The main objective of this analysis is to identify patterns and factors that inf
 * What is the job satisfaction rating?
 
 ## DASHBOARD
-![image](https://github.com/patelshubham91/Excel-Projects/blob/main/HR%20Analytics%20Project/Dashboard%20Image.jpg)
+![image](https://github.com/Gtshivanand/HR_Analytics_Dashboard_Excel_Project/blob/main/HR%20Analytics%20Dashboard.png)
 
 ## KEY PERFORMANCE INDICATORS (KPIs)
 * Attrition Rate: The overall attrition rate of 16% is prominently displayed, indicating it is a critical KPI for measuring employee turnover.
