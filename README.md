@@ -1,9 +1,9 @@
 # HR Analytics Dashboard
 
-### Introduction: 
+#  Introduction: 
 The aim of this project is to analyze the HR metrics and workforce demographics of a company for the year 2024. Understanding these metrics is crucial for strategic planning in employee retention, satisfaction, and overall workforce management.
 
-### Description:
+# Description:
 This repository contains an HR Analytics Dashboard built in Excel, designed to provide actionable insights into employee metrics. The project includes:
 
 * Key HR KPIs such as attrition rates, employee demographics, performance, and engagement trends.
@@ -14,24 +14,24 @@ This repository contains an HR Analytics Dashboard built in Excel, designed to p
 
 Ideal for HR professionals and data enthusiasts aiming to optimize workforce strategies.
 
-### Objectives:
+# Objectives:
 
 *	Identify key attrition trends based on various demographics.
 *	Analyze employee satisfaction and its correlation with attrition.
 *	Determine the impact of educational background and job role on attrition rates.
 
-### Data Collection:
+# Data Collection:
 
 * Data Sources: Company HR database.
 * Data Description: The dataset includes employee demographics, education levels, job roles, attrition counts, and satisfaction ratings.
 
-### Methodology:
+# Methodology:
 
 * Data Preparation: Data cleaning involved handling missing values and categorizing job roles and educational qualifications.
 * Analysis Techniques: Descriptive statistics and trend analysis were performed.
 * Tools and Technologies: We used Excel for data extraction, data cleaning, analysis, and visualization.
 
-### Findings and Results:
+# Findings and Results:
 *	Attrition Rate: The overall attrition rate is 16.1%, with a total of 237 employees leaving the company.
 
 *	Gender: 60% of the workforce is male, while 40% is female.
@@ -42,16 +42,18 @@ Ideal for HR professionals and data enthusiasts aiming to optimize workforce str
 *	Sales Executives and Research Scientists experience higher attrition compared to other roles.
 *	Department-wise, the Sales department has the highest attrition rate (56.1%).
 
-### Conclusion: 
+
+
+# Conclusion: 
 The analysis reveals that younger, single employees, particularly those with Bachelor's Degrees in Sales roles, are more likely to leave the company. Focused retention strategies should be developed for these demographics. Additionally, employee satisfaction initiatives should be enhanced to reduce the overall attrition rate.
 ### References:
 *	Company HR Database Documentation.
 
-### Dashboard:
+# Dashboard:
 
 <img width="606" alt="Snapshot of Dashboard (HR Analytics )" src="https://github.com/user-attachments/assets/f3d23bf7-66d2-4517-b1da-ea9c3e8b7483" />
 
-## Contact
+# Contact:
 
 For any inquiries or suggestions, feel free to reach out:
 
