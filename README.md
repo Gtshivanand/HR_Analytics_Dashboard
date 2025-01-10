@@ -43,3 +43,20 @@ The main objective of this analysis is to identify patterns and factors that inf
 * Identify and implement targeted retention strategies which include offering competitive compensation packages, career advancement opportunities, training and development programs.
 * Address the relatively low job satisfaction rating (2.6 out of 5) by enhancing employee engagement initiatives. This could involve improving communication, recognition programs, work culture, and opportunities for feedback and collaboration.
 * Analyze the factors contributing to the high attrition rate among the 25-34 age group. This may involve revisiting policies related to work flexibility, career growth opportunities, compensation etc.
+
+# Feedback and Suggestions:
+
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
+
+ LinkedIn: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+ 
+ Email: shivanandnashi97@gmail.com
+
+
+Looking forward to connecting and exchanging ideas!
+
+# ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
