@@ -1,6 +1,6 @@
 # HR ANALYTICS DASHBOARD PROJECT
 
-<im src="https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg"/>
+<img src="https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg" width =1000 height =800 />
 
 ## OBJECTIVE
 The main objective of this analysis is to identify patterns and factors that influence attrition and provide datadriven recommendations to reduce turnover rates. The document will address the issue of employee attrition as highlighted by the data, examining the reasons behind why employees leave the company.
